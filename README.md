@@ -9,5 +9,4 @@ Watch the full tutorial created by me on the STMicroelectronics YouTube Channel 
 
 
 
-![gym_partner3](https://github.com/user-attachments/assets/6a99cb31-c54d-44c5-8712-15a8758a7af2)
-![gym_partner](https://github.com/user-attachments/assets/6cdd70a2-8b76-4f7c-bd1e-9f46a43cbc4d)
+<img width="550" height="414" alt="Ma video explicative sur chaine Youtube de ST" src="https://github.com/user-attachments/assets/acea59a3-7a2f-4872-aee1-5129e29f9506" />
