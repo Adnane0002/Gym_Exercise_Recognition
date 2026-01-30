@@ -5,7 +5,7 @@ This projects was reduces to on a classification problem. There are five distinc
 
 The setup is based on a ST  VL53L5CX Time-of-Flight sensor (8x8 LiDAR sensor), operates on an Arduino UNO R4 and utilizes NanoEdge AI Studio, a user-friendly platform for AI on microcontrollers, to log data, train the model, and test it.
 
-For academic purposes, the attached Notebook (PDF) documents the data collection process and the **Feature Engineering** performed on the dataset.
+For academic purposes, the PDF **Notebook** documents the data collection process and the **Feature Engineering** performed on the dataset.
 
 Watch the full tutorial **created by me** on the STMicroelectronics YouTube Channel : https://www.youtube.com/watch?v=V_gHpV945Lc
 
